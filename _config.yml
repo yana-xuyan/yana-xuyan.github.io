@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan Xu (Yana)"
+title                    : "Yan (Yana) Xu"
 title_separator          : "-"
-name                     : &name "Yan Xu (Yana)"
+name                     : &name "Yan (Yana) Xu"
 description              : &description "personal description"
 url                      : https://yana-xuyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
