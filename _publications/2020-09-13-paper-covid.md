@@ -5,9 +5,9 @@ permalink: /publication/2020-09-13-paper-covid
 excerpt: ''
 date: 2020-09-13
 venue: 'NLP-COVID Workshop in EMNLP-2020'
-paperurl: 'https://openreview.net/pdf?id=1A83-27cVDW'
+paperurl: 'https://openreview.net/forum?id=k8f2nsLqyTZ'
 authors: 'Dan Su,Yan Xu,Tiezheng Yu,Farhad Bin Siddique,Elham J. Barezi,Pascale Fung'
-paper: https://openreview.net/pdf?id=1A83-27cVDW
+paper: https://openreview.net/forum?id=k8f2nsLqyTZ
 code: https://github.com/HLTCHKUST/CAiRE-COVID
 citation: ''
 ---
