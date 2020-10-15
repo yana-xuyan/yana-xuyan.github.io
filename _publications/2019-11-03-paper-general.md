@@ -2,7 +2,7 @@
 title: "Generalizing Question Answering System with Pre-trained Language Model Fine-tuning"
 collection: publications
 status: published
-permalink: /publication/2019-11-04-general
+permalink: /publication/2019-11-03-general
 excerpt: ''
 date: 2019-11-04
 venue: 'EMNLP'
