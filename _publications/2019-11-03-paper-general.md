@@ -1,5 +1,5 @@
 ---
-title: "ZGeneralizing Question Answering System with Pre-trained Language Model Fine-tuning"
+title: "Generalizing Question Answering System with Pre-trained Language Model Fine-tuning"
 collection: publications
 status: published
 permalink: /publication/2019-11-03-general
