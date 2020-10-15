@@ -6,7 +6,7 @@ permalink: /publication/2019-11-03-zero
 excerpt: ''
 date: 2019-11-03
 venue: 'EMNLP'
-paperurl: ''
+paperurl: 'https://www.aclweb.org/anthology/D19-1129.pdf'
 authors: 'Zihan Liu, Jamin Shin, Yan Xu, Genta Indra Winata, Peng Xu, Andrea Madotto and Pascale Fung'
 citation: ''
 paper: 'https://www.aclweb.org/anthology/D19-1129.pdf'
