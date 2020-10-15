@@ -1,5 +1,5 @@
 ---
-title: "Multi-hop Question Generation with Graph Convolutional Network"
+title: "CAiRE-COVID: A Question Answering and Query-focused Multi-Document Summarization System for COVID-19 Scholarly Information Management"
 collection: publications
 permalink: /publication/2020-09-13-paper-covid
 excerpt: ''
