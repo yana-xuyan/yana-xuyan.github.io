@@ -14,6 +14,8 @@ My current research interests are commonsense reasoning and conversational AI.
 
 Highlights
 ======
-- TBC
+- Two papers got accepted in Findings of EMNLP 2020
+- Paper "CAiRE-COVID: A Question Answering and Query-focused Multi-Document Summarization System for COVID-19 Scholarly Information Management" got accapted in EMNLP COVID workshop.
+- Winner of the task "[What has been published about information sharing and inter-sectoral collaboration?](https://www.kaggle.com/sudansudan/caire-cord-task10)" of Kaggle [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge).
 
 Please feel free to contact me via email.
