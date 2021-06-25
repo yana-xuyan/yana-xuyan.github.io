@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can download my [CV](~/files/Yan_Xu_s_CV.pdf) in PDF.
 
 Education
 ======
