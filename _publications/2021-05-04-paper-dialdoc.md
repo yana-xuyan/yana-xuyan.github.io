@@ -11,5 +11,4 @@ citation: 'Ishii, E., Xu, Y., Winata, G. I., Lin, Z., Madotto, A., Liu, Z., ... 
 paper: 'https://arxiv.org/pdf/2106.03530.pdf'
 code: 'https://github.com/HLTCHKUST/CAiRE_in_DialDoc21'
 award: 'Third Place in the Shared Task'
-show_year: true
 ---
