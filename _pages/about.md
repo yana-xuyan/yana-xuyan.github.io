@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am [Yan (Yana) Xu](https://yana-xuyan.github.io) (徐妍). I received Bachelor Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). Currently, I am a Ph.D. candidate at Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](http://www.ust.hk) and [Center of AI Research](https://caire.ust.hk/), supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/index.html). My current research interests are Commonsense Reasoning and Conversational AI. I al serve as the Program Committee and Reviewer in ACL 2021, NLPCC 2021.
+I am [Yan (Yana) Xu](https://yana-xuyan.github.io) (徐妍). I received Bachelor Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). Currently, I am a Ph.D. candidate at Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](http://www.ust.hk) and [Center of AI Research](https://caire.ust.hk/), supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/index.html). My current research interests are Commonsense Reasoning and Conversational AI. I also serve as the Program Committee and Reviewer in ACL 2021, NLPCC 2021.
 
 News
 ======

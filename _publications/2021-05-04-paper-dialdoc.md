@@ -1,7 +1,7 @@
 ---
 title: "CAiRE in DialDoc21: Data Augmentation for Information-SeekingDialogue System"
 collection: publications
-permalink: /publication/2020-05-04-paper-dialdoc
+permalink: /publication/2021-05-04-paper-dialdoc
 excerpt: ''
 date: 2021-05-04
 venue: 'Proceedings of the 1st International Workshop on Document-grounded Dialogue and Conversational QA in conjuction with ACL'
