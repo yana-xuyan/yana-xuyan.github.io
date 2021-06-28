@@ -20,10 +20,10 @@ News
 
 Publications
 ======
-  <ul>{% include base_path %}</ul>
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-publications.html %}
-  {% endfor %}</ul>
+{% include base_path %}
+{% for post in site.publications reversed %}
+  {% include archive-single-publications.html %}
+{% endfor %}
 
 Awards
 ======
