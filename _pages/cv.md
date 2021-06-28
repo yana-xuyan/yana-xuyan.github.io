@@ -30,8 +30,9 @@ You can download my [CV](../files/Yan_Xu_s_CV.pdf) in PDF.
 
 ## Publications
 <!-- ====== -->
+  <ul>{% include base_path %}</ul>
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-publications.html %}
   {% endfor %}</ul>
 
 ## Awards
