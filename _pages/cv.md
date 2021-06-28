@@ -26,7 +26,7 @@ You can download my [CV](../files/Yan_Xu_s_CV.pdf) in PDF.
 <!-- ====== -->
   <ul>{% include base_path %}</ul>
   <ul>{% for post in site.publications %}
-    {% include archive-single-publications.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Awards
