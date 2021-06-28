@@ -25,6 +25,7 @@ Publications
   {% include archive-single-publications.html %}
 {% endfor %}
 
+
 Awards
 ======
 * Third Place in DialDoc21 Shared Task, ACL 2021
@@ -35,5 +36,6 @@ Awards
 * National Scholarship (Top 2%), 2014 - 2016
 
   
-### Service and leadership
+Service and leadership
+======
 * Reviewer: ACL 2021, NLPCC 2021
