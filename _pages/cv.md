@@ -12,21 +12,15 @@ You can download my [CV](../files/Yan_Xu_s_CV.pdf) in PDF.
 
 ## Education
 <!-- ====== -->
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, Xi'an Jiaotong University, *Sept. 2014 - Jun. 2018*
+* Ph.D Candidate in ECE Department, Hong Kong University of Science and Technology, *Sept. 2018 - Present*
 
 ## Work experience
 <!-- ====== -->
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern: *Jul. 2016 - Aug. 2016 & Jul. 2017 - Aug. 2017*
+  * Institute of Automation Chinese Academy of Sciences, Beijing, China
+  * Developed an Android application for demonstrate the Image Captioning algorithm for online use.
+  * Conducted research on text skew correction with Convolutional Neural Networks. I mainly worked on building a dataset for the task, implement and compare the existing models on the text skew correction task.
 
 ## Publications
 <!-- ====== -->
@@ -37,21 +31,16 @@ You can download my [CV](../files/Yan_Xu_s_CV.pdf) in PDF.
 
 ## Awards
 <!-- ====== -->
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Third Place in DialDoc21 Shared Task, ACL 2021
+* Winner of Task 10 in Kaggle CORD-19 Challenge, Kaggle Competition
+* Fourth Place in MRQA-2019 Shared Task, EMNLP 2019
+* First Place in Chatbot Millionare Challenge, HKSTP 2019
+* Top Four out of 160 teams in SemEval-2019 Task 3, NAACL 2019
+* National Scholarship (Top 2%), 2014 - 2016
 
 ## Skills
 <!-- ====== -->
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: Chinese (Mother Tongue) • English (Full-Proficiency) • Cantonese (Basic)
   
 <!-- Talks
 ======
